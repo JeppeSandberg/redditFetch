@@ -1,0 +1,190 @@
+&gt; **Baron Nashor**
+
+&gt; - Movement speed: 300 lol
+
+where is bro going
+
+The next 2 weeks are going to be crazy as people figure out what's OP
+
+Huh, there's more changes to the blue/red buffs than I thought.
+
+Now Blue and Red have 3 versions:
+
+- Base version (Spawns at start): works like normal blue/red.
+
+- Draconic (Spawns/converts after Elemental Rift activates): 2 buffs dropped (without needing to finish the jungle pet).
+
+- Void (Spawns after baron, does not auto convert): Stronger buff, gives entire team the effect. Buff is not transferable on death.
+
+Plus blue buff gives flat 10 AH, and Red's regen doesn't scale past lvl 6.
+
+&gt;Rift Herald now has Baron’s Gaze which reduces damage taken from the last enemy attacked by 50%.
+
+&gt;Empowered Recall: The holder gains Empowered Recall until the Eye is used/expires ⇒ All allied champions who assisted in killing Herald gain a single completed use of Empowered Recall
+
+&gt;Sharing (Gold) is Caring: Rift Herald grants any gold it gains from turrets/turret plates to the player that summoned them (if they weren't around) ⇒ Rift Herald grants any gold it gains from turrets/turret plates to all champions who assisted in killing the Herald
+
+&gt;Auto Cast: Upon expiring, the Eye of the Herald will auto-cast with no channel time and summon Rift Herald. In the event your champion is currently dead, the Herald will spawn in your team’s fountain.
+
+I quite like these changes, big emphasis on the 2nd (now first and only) Herald as a proper objective.
+
+&gt; Territorial Baron: Baron reaches out, after 1.5 seconds he grabs all enemies in a cone, pulling them 300 units and dealing 75 magic damage to them.
+
+...is that you, Vilemaw?
+
+&gt;New Player Placements: We’ve updated how new players are placed in Ranked which should place them closer to their appropriate skill level.
+
+Please be true please be true please be true please be true please be true please be true please be true please be true please be true please be true please be true please be true.
+
+Is it just me or are there lots of spelling mistakes in there?
+
+Alright Phreak, now drop the 4 hour video.
+
+For a second I read that Jhin Hwei quest as granting Jhin 4,444 lethality if he won and I nearly lost it
+
+Rest in shit: stopwatch, duskblade, and mythic items
+
+never come back
+
+&gt;Item Recipe: Hearthbound Axe + Zeal + 600 gold ⇒ Hearthbound Axe + Cloak of Agility + 1000 gold
+
+holy i don't think it's possible to come up with a worse buildpath
+
+RIP Radiant Virtue I'll miss you. But at least we get a MR sunfire and tiamat auto reset back.
+
+What champ's gonna be the biggest day 1 winner of the patch? Hot takes only
+
+Is it possible to buy those poor interns coffee so we can get proper notes? Esp in item changes - info is missing (stack limits/cooldowns...), wrong numbers (costs, %...)
+
+&gt; Providing mid laners with about 20% more time after seeing an enemy before they can get into actionable range should give substantially less power to early ganks and much more safety to these immobile characters.
+
+*[Zac has entered the chat]*
+
+Is it just me or are those dragonmancer skins kind of... bland? They lack so much personality.
+
+there are a large numbers of typos on this page though, things like blasting wand being 450g or hourglass out of verdant barrier...
+
+Also are mythics not mentioned like moonstone just not otherwise changing apart from losing the passive?
+
+Ain't reading all that.
+
+But thank you for making my champ better, Riot.
+
+Or fuck you for making them worse.
+
+Thank god Duskblade is gone.
+
+Both iterations of it as a mythic were awful. Invisibility??? STOPPPP
+
+Untargetability??? TORTURE
+
+stopwatch will not be missed.
+
+As for all the balance changes, way too hard to say and it will probably turn out something wacky like ap reksai ends up being the secret broken thing
+
+Is Terminus how we start enabling Urgot to switch between Light and Dark Forms?
+
+&gt; Arena Spectator Delay: 60 seconds
+
+Amazing. Unfortunately you disabled the mode.
+
+Haste is reduced/removed from most items 🙏
+
+Can't wait for a 3 armor buff to give Hwei +10% winrate.
+
+&gt; Riot Games (whose logo is a fist bump)
+
+No it's not. People don't riot so they can fist bump each other. It's always been a punch to the face, which is how I feel every time I lose a ranked game.
+
+Did they make a typo or is Serylda’s Grudge the best item in the game? 35+ lethality?!?!
+
+And good riddance to Duskblade, I dont know what kind of shrooms Riot was on when they gave it that passive
+
+Probably the biggest patch in a looong while. Excited to try this out.
+
+It feels like somebody just gave up while amidst typing these patch notes or about 10 different people typed them judging by typing style. Does anyone proofread this or what?
+
+Most fun time of league is the beginning of a season, it's like crack to me to discover all the new shit aaaaa inject it into my vein.
+
+The thing I'm most happy about is that Duskblade is gone.
+
+I love the direction of the changes. It feels like the last few years riot has been trying to give every champ an answer for every situation. Now they seem to be coming around to the idea that assassins should almost always lose to tanks, but adcs and mages should get blown up by assassins if they aren’t careful etc. I like this a lot more than shoving all the square pegs into all the round holes
+
+A lot of the values written here are wrong. I guess Riot Riru forgot to read the PBE updates ?
+
+[Here's a link](https://leagueoflegends.fandom.com/wiki/V14.1/Items) for the people who want the correct numbers.
+
+Reminder to check the QoL/bugfixes section for funny surprises.
+
+&gt;Fixed a bug that sometimes caused Hecarim’s E to critically strike with 0% critical strike chance.
+
+Hecarim not letting go that one crit mark.
+
+&gt; Malignance
+
+&gt; Hatefog: Whenever you damage an enemy champion with your Ultimate, burn the ground beneath them for 3 seconds, dealing 60 (+6% AP) magic damage every second and reducing their Magic Resistance by (1 per user level) for as long as they are on the burning ground.
+
+
+So does Tibbers just become a walking lava field?
+
+experimental hexplate sounds crazy 
+
+noc and trynd will go sicko mode
+
+I'm sorry, but people can read the patch notes from this?
+
+&amp;#x200B;
+
+\[Window Title\] Sublime Text \[Main Instruction\] C:\\Users\\Cidem\\Downloads\\patch\_notes\_LoL\_14.1\_v4.html Has changed on disk. Do you want to reload it? \[Reload\] \[Always Ignore\] \[Cancel\]
+
+So… what does Ornn upgrade now that Mythics are gone?
+
+I assume the Umbral Glaive change is listed backwards and they're nerfing the passive to 2 damage for melee and standard damage for range? Or is it just one big typo and they're leaving the passive as it was before?
+
+These changes are incredibly exciting, but I'm also incredibly disappointed they're keeping and even buffing Umbral Glaive. Fucking get rid of it. The item is incredibly oppressive to play against, moreso when the enemy team is ahead and/or have two owners of the item.
+
+That or just give it an incredibly low cooldown and have it disable wards and traps in a large radius around the owner. Make it the item that was meant to fulfill the roaming, unseen assassin fantasy.
+
+I'd much rather keep my wards around the map and die to the unseen assassin instead of losing sight of the entire enemy team completely within a second. The amount of value and gold this item generates for the user is absurd.
+
+finally, some real changes
+
+[Window Title] Sublime Text [Main Instruction] C:\Users\Cidem\Downloads\patch_notes_LoL_14.1_v4.html Has changed on disk. Do you want to reload it? [Reload] [Always Ignore] [Cancel]
+
+The In Game Quests are honestly too strong, it was fun when you got 1AD or 1 Gold, but for example, making shens shield 30% stronger is just too insane. 
+
+&gt;Ki Barrier will become 30% stronger.
+
+[deleted]
+
+[deleted]
+
+lol, i don't think i have any reason to use riftmaker anymore
+
+There are a bunch of typos and incorrect information so please read the notes thoroughly again.
+
+It’s a good start to the season when the patch notes are broken
+
+these are the kinds of big items I was hoping for during the item rework. i unironically hope you continue to add items with larger variance and power, i feel like that's a whole new bit of gameplay that hasn't been explored enough.
+
+ &gt;
+&gt;Titanic Hydra
+
+&gt;Total Cost: 3350 gold
+
+&gt;Item Recipe: Tiamat + Ruby Crystal + Kindlegem + 900 Gold
+
+&gt;30 Attack Damage
+
+&gt;450 Health
+
+&gt;20 Ability Haste
+
+&gt;Passive - Colossus: Basic attacks deal +1.5% maximum health (melee)/ +0.75% maximum health (ranged) bonus physical damage on-hit to your target and +3% maximum health (melee)/ +1.5% maximum health (ranged) bonus physical damage to other enemies in a cone on-hit. Cleave's damage also applies to structures.
+
+&gt;Active - Crescent:On your next attack, Cleave will deal 6%(melee)/3%(ranged) maximum Health bonus physical damage to your target and 9%(melee)/4.5%(ranged) maximum Health bonus physical damage for the shockwave.
+
+That's an enormous nerf compared to its earlier version on PBE that gave 55 AD, 550 health and 0 haste
+
+
+
