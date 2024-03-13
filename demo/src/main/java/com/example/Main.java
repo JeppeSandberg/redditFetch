@@ -26,6 +26,8 @@ public class Main {
                 URL url = uri.toURL();
                 HttpURLConnection connection = (HttpURLConnection) url.openConnection();
                 connection.setRequestMethod("GET");
+                connection.setRequestProperty("User-Agent", "Java:com.example.Main:v1.0 (by /u/Jespooo)");
+
 
                 // Read the JSON response from the API
                 Scanner scanner = new Scanner(connection.getInputStream());
